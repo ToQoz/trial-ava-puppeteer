@@ -3,7 +3,7 @@
 [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) + [avajs/ava](https://github.com/avajs/ava)
 
 ```
-npm run test
+$ npm run test
 
 > @ test /private/tmp/e2e
 > ava -v
