@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "ava -v"
+  },
+  "dependencies": {
+    "ava": "^0.22.0",
+    "puppeteer": "^0.11.0"
+  },
+  "ava": {
+    "files": [
+      "*.test.js"
+    ]
+  }
+}
