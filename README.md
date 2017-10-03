@@ -1,14 +1,15 @@
 # headless chrome + ava
 
 ```
-$ npm run test
+npm run test
 
 > @ test /private/tmp/e2e
 > ava -v
 
 
-  ✔ search q=github (2.3s)
-  ✔ search q=google (2.3s)
+  ✔ google › search q=google (2.4s)
+  ✔ google › search q=github (2.6s)
+  ✔ kidscannon › target=blank (3.2s)
 
-  2 tests passed [11:48:06]
+  3 tests passed [12:26:38]
 ```
