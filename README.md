@@ -1,5 +1,7 @@
 # headless chrome + ava
 
+[GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) + [avajs/ava](https://github.com/avajs/ava)
+
 ```
 npm run test
 
